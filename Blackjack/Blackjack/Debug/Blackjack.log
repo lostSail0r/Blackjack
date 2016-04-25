@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\chris\desktop\blackjack\blackjack\blackjack\main.cpp(1707): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\chris\desktop\blackjack\blackjack\blackjack\main.cpp(1881): warning C4715: 'getTopCard': not all control paths return a value
+  Blackjack.vcxproj -> C:\Users\Chris\Desktop\Blackjack\Blackjack\Debug\Blackjack.exe
+  Blackjack.vcxproj -> C:\Users\Chris\Desktop\Blackjack\Blackjack\Debug\Blackjack.pdb (Partial PDB)
