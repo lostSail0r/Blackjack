@@ -1,5 +1,7 @@
 # Blackjack
 
+https://youtu.be/SngIHvvYaFI
+
 This is Blackjack, written in C++. Includes:
 -User accounts (Includes tally of winnings and player rankings)
 -Leaderboard
